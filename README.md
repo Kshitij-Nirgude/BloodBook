@@ -14,7 +14,7 @@ https://firebase.google.com/docs/firestore/quickstart
 Next clone the project and build in Android Studio.
 
 --- 
-Functionalities provided by the application :
+##### Functionalities provided by the application :
 
 DONOR :
 (a) To let the donor REGISTER first by providing details, and then LOGIN for further activities ( authentication purpose solved )
@@ -26,7 +26,7 @@ DONOR :
 (d) Functionality to show the available DONATION DRIVES in Pune so that donor is equipped with the address where to donate
 
 (e) After Login showing the donor’s profile for more user friendliness and letting the system be more informative for the donor
-
+---
 RECEIVER :
 (a) Accepting only the main details of the patient ( receiver ) so that distribution of the blood is easy and efficient
 
@@ -37,7 +37,7 @@ RECEIVER :
 (d) Facility to navigate the Blood Banks from the available list after retrieving the provided location by the receiver
 
 (e) Application sends an auto generated email to the selected bloodbank with deatils to avail the packet when physically visited
-
+---
 BLOOD BANK :
 (a) Keep a check on the available stock and display the stock of all blood groups included
 
