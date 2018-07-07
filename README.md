@@ -4,6 +4,7 @@
 BloodBook
 An Android based application that provides a central platform for the donor, receiver and blood bank to assist in the management of blood supply chain for immediate communication during emergencies.
 
+---
 Initial Setup :
 
 We have used Cloud Firestore for Database Management. Go through the documentation to get started with cloud firestore:
@@ -12,6 +13,7 @@ https://firebase.google.com/docs/firestore/quickstart
 
 Next clone the project and build in Android Studio.
 
+--- 
 Functionalities provided by the application :
 
 DONOR :
